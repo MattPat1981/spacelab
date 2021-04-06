@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spacelab/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/spacelab/static/js/main.3afdc7a4.chunk.js",
+    "main.js.map": "/spacelab/static/js/main.3afdc7a4.chunk.js.map",
+    "runtime-main.js": "/spacelab/static/js/runtime-main.952f6f65.js",
+    "runtime-main.js.map": "/spacelab/static/js/runtime-main.952f6f65.js.map",
+    "static/js/2.ef405bd0.chunk.js": "/spacelab/static/js/2.ef405bd0.chunk.js",
+    "static/js/2.ef405bd0.chunk.js.map": "/spacelab/static/js/2.ef405bd0.chunk.js.map",
+    "static/js/3.5338de91.chunk.js": "/spacelab/static/js/3.5338de91.chunk.js",
+    "static/js/3.5338de91.chunk.js.map": "/spacelab/static/js/3.5338de91.chunk.js.map",
+    "index.html": "/spacelab/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/spacelab/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ef405bd0.chunk.js.LICENSE.txt": "/spacelab/static/js/2.ef405bd0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/spacelab/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.952f6f65.js",
+    "static/js/2.ef405bd0.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3afdc7a4.chunk.js"
+  ]
+}
